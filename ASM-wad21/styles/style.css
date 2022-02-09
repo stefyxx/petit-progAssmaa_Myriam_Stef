@@ -1,0 +1,27 @@
+body {
+    font-family: cursive;
+    background-image: url(../Image/Image_Background.jpg);
+}
+
+h1 {
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+div {
+    size: 60%;
+    display: flex;
+    justify-content: center;
+}
+
+section {
+    background-color: bisque;
+    padding: 20px;
+    margin: 10px;
+    border: solid black 3px;
+}
+
+

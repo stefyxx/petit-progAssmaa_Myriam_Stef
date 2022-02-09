@@ -1,0 +1,25 @@
+Assmaa
+HTML 
+= aller chercher les images
+= blabla des fiches
+= écriture du contenu
+= structure de la fiche
+
+Stefania
+JS
+= popup on hover
+
+Myriam
+CSS
+= flexbox et position
+= couleur
+= police
+= background
+
+
+
+
+
+
+
+

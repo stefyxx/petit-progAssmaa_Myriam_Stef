@@ -1,0 +1,137 @@
+Nom du pays : Belgique
+
+Capitale : Bruxelles
+
+Superficie : 30 528 km²
+
+Population : 11 498 519
+
+Régime politique : Monarchie constitutionnelle parlementaire fédérale
+
+Devise nationale : May the Force be with you - Maitre Yoda
+
+Hymne national : La Brabançonne
+
+Langues officielles : Allemand, Français, Néerlandais
+
+Monnaie : Euro (EUR), depuis 1999
+
+Pays limitrophes : Allemagne, France, Luxembourg, Pays-Bas
+
+Ouverture sur la mer : mer du Nord
+
+-----------------------------------------------------------------------------------------------------
+
+Nom du pays : Malaisie
+
+Capitale : Kuala Lumpur
+
+Superficie : 330 803 km²
+
+Population : 32 042 458
+
+Régime politique : Monarchie constitutionnelle
+
+Devise nationale : Bersekutu Bertambah Mutu (L'unité est la force)
+
+Hymne national : Negaraku (Mon pays)
+
+Langue officielle : Malaisien
+
+Monnaie : Ringgit (MYR), depuis 1967
+
+Pays limitrophes : Brunei, Indonésie, Singapour, Thaïlande
+
+----------------------------------------------------------------------------------------------------
+
+Nom du pays : Etats-Unis
+
+Capitale : Washington
+
+Superficie : 9 371 180 km²
+
+Population : 326 766 748
+
+Régime politique : République constitutionnelle présidentielle fédérale
+
+Devise nationale : In God We Trust (En Dieu nous croyons)
+
+Hymne national : The Star-Spangled Banner
+
+Langue officielle : Anglais
+
+Monnaie : Dollar américain (USD)
+
+Pays limitrophes : Canada, Mexique
+
+Ouverture sur la mer : océan Atlantique, océan Pacifique
+
+-------------------------------------------------------------------------------------------------
+
+Nom du pays : République Démocratique du Congo
+
+Capitale : Kinshasa
+
+Superficie : 2 344 860 km²
+
+Population : 84 004 989
+
+Régime politique : République
+
+Devise nationale : Paix, Justice, Travail
+
+Hymne national : Debout Congolais
+
+Langue officielle : Français
+
+Monnaie : Franc congolais (CDF)
+
+Pays limitrophes : Angola, Angola, Burundi, Congo, Ouganda, Rwanda, République Centrafricaine, Soudan du Sud, Tanzanie, Zambie
+
+Ouverture sur la mer : océan Atlantique
+
+
+
+------------------------------------------------------------------------------------------------------------------
+
+Nom du pays : Russie
+
+Capitale : Moscou
+
+Superficie : 17 098 200 km²
+
+Population : 143 964 709
+
+Régime politique : République fédérale
+
+Hymne national : Gosudarstvenny gimn Rossiyskoy Federatsii (Hymne national de la Fédération de Russie)
+
+Langue officielle : Russe
+
+Monnaie : Rouble russe (RUB), depuis 1998
+
+Pays limitrophes : Azerbaïdjan, Biélorussie, Chine, Corée du Nord, Estonie, Finlande, Géorgie, Kazakhstan, Lettonie, Lituanie, Mongolie, Norvège, Pologne, Ukraine
+
+Ouverture sur la mer : mer Baltique, mer Caspienne, mer Noire, mer d'Azov, mer de Barents, océan Arctique, océan Pacifique
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Nom du pays : Chine
+
+Capitale : Pékin
+
+Superficie : 9 598 000 km²
+
+Population : 1 415 045 928
+
+Régime politique : République
+
+Hymne national : La Marche des Volontaires
+
+Langue officielle : Chinois mandarin
+
+Monnaie : Yuan (CNY)
+
+Pays limitrophes : Afghanistan, Bhoutan, Birmanie, Corée du Nord, Inde, Kazakhstan, Kirghizistan, Laos, Mongolie, Népal, Pakistan, Russie, Tadjikistan, Viêt Nam
+
+Ouverture sur la mer : mer Jaune, mer de Chine méridionale, mer de Chine orientale
